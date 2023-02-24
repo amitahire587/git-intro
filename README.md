@@ -11,3 +11,5 @@
 - Move file from workspace to staging area : git add <folder/file/.>
 - Move file from staging area to local repo: git commit -m "git basics"
 - Move file from local repo to remote repo : git push
+
+- git diff is used to see the code difference
